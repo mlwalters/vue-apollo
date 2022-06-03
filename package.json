@@ -7,9 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@apollo/client": "^3.6.6",
+    "@vue/apollo-composable": "^4.0.0-alpha.17",
     "@vue/cli": "^5.0.4",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "graphql": "^15.8.0",
+    "react": "^18.1.0",
+    "vue": "^3.2.13",
+    "vue-apollo": "^3.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
